@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+prophet
+scikit-learn
+u8darts
+convertdate
