@@ -6,5 +6,6 @@ seaborn
 statsmodels
 prophet
 scikit-learn
-u8darts
+darts
 convertdate
+xlrd
