@@ -1,6 +1,7 @@
 # Time_series_analysis-Streamlit
 
-https://dashonokok-time-series-analysis-streamlit-app-yzmde8.streamlit.app/
+[Посмотреть приложение](https://dashonokok-time-series-analysis-streamlit-app-yzmde8.streamlit.app/)
+
 
 Это Streamlit-приложение позволяет пользователям загружать файлы с временными рядами, получать предсказания и отображать результаты.
 
